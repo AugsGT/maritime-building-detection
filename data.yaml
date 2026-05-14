@@ -1,0 +1,7 @@
+path: dataset
+
+train: train_aug/images
+val: val/images
+
+names:
+  0: building
