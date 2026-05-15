@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "albumentations>=2.0.8",
     "opencv-python>=4.13.0.92",
+    "rembg>=2.0.75",
     "ultralytics>=8.4.49",
 ]
 
